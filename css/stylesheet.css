@@ -252,3 +252,12 @@ img.soundhearts {
 }
 
 .mySlides {display:none;}
+
+video.demo {
+    display: inline-block;
+    float:middle;
+}
+
+h2.demo {
+    padding-top:5%;
+}
